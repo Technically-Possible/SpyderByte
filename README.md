@@ -1,3 +1,29 @@
+```bash
+                        ───▐──▌───────▐──▌───
+                        ───▐▌─█───────█─▐▌───
+                        ──▄█──▀▀▄▌▄▐▄▀▀──█▄──
+                        ─▐█─▄█▀▄█████▄▀█▄─█▌─
+                        ──▀▀─▄▄▄█████▄▄▄─▀▀──
+                        ───▄█▀─▄▀███▀▄─▀█▄───
+                        ─▄█──▄▀──███──▀▄──█▄─
+                        ▐█───█───▐█▌───█───█▌
+                        ─█────█───▀───█────█─
+                        ─▀█───█───────█───█▀─
+                        ──█────█─────█────█──
+                        ───█───█─────█───█───
+                        ────▌───▌───▐───▐────
+
+ .|'''.|                         '||                  '||''|.              .           
+ ||..  '  ... ...  .... ...    .. ||    ....  ... ..   ||   ||  .... ... .||.    ....  
+  ''|||.   ||'  ||  '|.  |   .'  '||  .|...||  ||' ''  ||'''|.   '|.  |   ||   .|...|| 
+.     '||  ||    |   '|.|    |.   ||  ||       ||      ||    ||   '|.|    ||   ||      
+|'....|'   ||...'     '|     '|..'||.  '|...' .||.    .||...|'     '|     '|.'  '|...' 
+           ||      .. |                                         .. |                   
+          ''''      ''                                           ''                    
+
+
+          
+```
 # Spyderbyte
 
 Spyderbyte is a file permission auditing tool written in Bash. It allows you to scan a directory and identify files with insecure permissions. The tool generates a report that highlights files with potentially risky permissions, helping you ensure the security of your file system.
